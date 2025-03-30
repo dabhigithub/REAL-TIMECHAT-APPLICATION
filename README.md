@@ -1,4 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
 # Modern Real-Time Chat Application
+![APP HOMEPAGE](https://github.com/dabhigithub/REAL-TIMECHAT-APPLICATION/blob/8e9c9d882540d70dd87e552f8a6904c9009e971f/screenshort/chat%20pic.png)
 
 A feature-rich, responsive real-time chat application built with React, TypeScript, Socket.IO, and styled-components featuring a modern UI design with both light and dark mode support.
 
