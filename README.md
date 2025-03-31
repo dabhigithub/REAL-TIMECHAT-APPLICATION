@@ -1,13 +1,18 @@
+# Modern Real-Time Chat Application
 
+*COMPANY*: CODTECH IT SOLUTIONS
 
+*NAME*: ABHISHEK KUMAR
 
+*INTERN ID*: CT08WSD
 
+*DOMAIN*: FRONTEND WEB DEVELOPMENT
 
+*DURATION*: 4 WEEKS 
 
+*MENTOR*: NEELA SANTOSH
 
-
-
-
+***********************************************************************************************************************************************
 
 # Modern Real-Time Chat Application
 ![APP HOMEPAGE](https://github.com/dabhigithub/REAL-TIMECHAT-APPLICATION/blob/8e9c9d882540d70dd87e552f8a6904c9009e971f/screenshort/chat%20pic.png)
